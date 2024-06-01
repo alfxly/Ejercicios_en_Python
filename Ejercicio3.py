@@ -1,3 +1,9 @@
+"""Escribir un programa que almacene los números de 1 a 50, los muestre y
+
+posteriormente elimine los números que no son primos y muestre los
+números primos (un número natural mayor que 1 que tiene únicamente dos
+divisores positivos distintos: él mismo y el 1)"""
+
 def numeros_primos(lista):
     primos = []
     no_primos = []
